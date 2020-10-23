@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mykhailo</h1>
-<h3 align="center">A passionate software developer living in Toronto</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilievm" alt="ilievm" /></a> </p>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mykhailo</h1>
 
 - 🔭 I’m currently working on [AniBout_me](https://github.com/ilievm/AniBout_me)
 
