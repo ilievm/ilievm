@@ -1,7 +1,12 @@
 <h3 align="center">Hello! I am</h3>
-<h1 align="center"><img src="./assets/Mykhailo_Iliev.gif" width="400px"/></h1>
+<h1 align="center"><img src="./assets/Mykhailo_Iliev.gif" width="450px"/></h1>
 
-**[https://www.ilievm.com/](https://www.ilievm.com/)**
+<a href="https://www.ilievm.com/" target="_blank"> 
+  <img src="./assets/tryMyProjects.gif" width="180px" alt="portfolio"/> 
+</a>
+<a href="https://www.ilievm.com/" target="_blank"> 
+  <img src="./assets/portfolio.gif" alt="portfolio"/> 
+</a>
 
 - 👨🏽‍💻 I’m currently working on *[AniBout_me](https://github.com/ilievm/AniBout_me)* — An artificial intelligence image recognition tool that uses Image Recognition to return a list of GIFs based on image content.
 
