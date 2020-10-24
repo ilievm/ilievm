@@ -5,7 +5,7 @@
   <img src="./assets/tryMyProjects.gif" height="130px" alt="portfolio"/> 
 </a>
 <a href="https://www.ilievm.com/" target="_blank"> 
-  <img src="./assets/portfolio.gif" height="180px" alt="portfolio"/> 
+  <img src="./assets/portfolio.gif" height="220px" alt="portfolio"/> 
 </a>
 
 - 👨🏽‍💻 I’m currently working on *[AniBout_me](https://github.com/ilievm/AniBout_me)* — An artificial intelligence image recognition tool that uses Image Recognition to return a list of GIFs based on image content.
