@@ -2,10 +2,10 @@
 <h1 align="center"><img src="./assets/Mykhailo_Iliev.gif" width="450px"/></h1>
 
 <a href="https://www.ilievm.com/" target="_blank"> 
-  <img src="./assets/tryMyProjects.gif" width="180px" alt="portfolio"/> 
+  <img src="./assets/tryMyProjects.gif" height="180px" alt="portfolio"/> 
 </a>
 <a href="https://www.ilievm.com/" target="_blank"> 
-  <img src="./assets/portfolio.gif" alt="portfolio"/> 
+  <img src="./assets/portfolio.gif" height="180px" alt="portfolio"/> 
 </a>
 
 - 👨🏽‍💻 I’m currently working on *[AniBout_me](https://github.com/ilievm/AniBout_me)* — An artificial intelligence image recognition tool that uses Image Recognition to return a list of GIFs based on image content.
