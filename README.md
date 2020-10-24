@@ -1,5 +1,5 @@
+<h1 align="center">Hello! I am</h1>
 <h1 align="center"><img src="./assets/Mykhailo_Iliev.gif" width="400px"/></h1>
-<div style="text-align:center">to</div>
 
 **[https://www.ilievm.com/](https://www.ilievm.com/)**
 
