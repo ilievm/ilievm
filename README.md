@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I am</h1>
+<h2 align="center">Hello! I am</h2>
 <h1 align="center"><img src="./assets/Mykhailo_Iliev.gif" width="400px"/></h1>
 
 **[https://www.ilievm.com/](https://www.ilievm.com/)**
