@@ -1,5 +1,5 @@
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm</h1>
-<div style="text-align:center"><img src="./assets/Mykhailo_Iliev.gif" width="400px"/></div>
+<h1 align="center"><img src="./assets/Mykhailo_Iliev.gif" width="400px"/></h1>
+<div style="text-align:center">to</div>
 
 **[https://www.ilievm.com/](https://www.ilievm.com/)**
 
