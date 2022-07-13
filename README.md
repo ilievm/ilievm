@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/Mykhailo_Iliev.gif" width="450px"/></h1>
+<h1 align="center"><img src="./assets/Mykhailo_Iliev_transparent.gif" width="450px"/></h1>
 
 <h3 align="left"> - 📫 You can reach me by my email — <a href="mailto:webmaster@example.com">ilievmyk@gmail.com
 </a> </h3>
