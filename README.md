@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/Mykhailo_Iliev_transparent.gif" width="450px"/></h1>
+<h1 align="center"><img src="./assets/Mykhailo_Iliev.gif" width="450px"/></h1>
 
 <a href="https://www.ilievm.com/" target="_blank"> 
   <img src="./assets/tryMyProjects.gif" height="170px" alt="portfolio"/> 
